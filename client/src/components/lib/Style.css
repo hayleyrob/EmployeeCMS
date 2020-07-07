@@ -38,7 +38,6 @@
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   background-color: rgba(0, 0, 0, 0);
-  animation: surprise 1s;
 }
 
 .menu:hover {
