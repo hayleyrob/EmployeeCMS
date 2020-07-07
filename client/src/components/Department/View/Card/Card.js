@@ -2,7 +2,7 @@ import React from "react";
 import NumberFormat from "react-number-format";
 import Card from '@material-ui/core/Card'
 
-const Card = () => {
+const Card = (data) => {
 
   return (
     <>
