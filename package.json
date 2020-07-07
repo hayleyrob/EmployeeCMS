@@ -1,0 +1,29 @@
+{
+  "name": "EmployeeCMS",
+  "version": "1.0.0",
+  "description": "A React Employee Content Management System that enables An employee or manager is able to view non-sensitive data about other employees in this CMS.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayleyrob/EmployeeCMS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hayleyrob/EmployeeCMS/issues"
+  },
+  "homepage": "https://github.com/hayleyrob/EmployeeCMS#readme",
+  "dependencies": {
+    "concurrently": "^5.2.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "if-env": "^1.0.4",
+    "mongoose": "^5.9.22",
+    "path": "^0.12.7"
+  }
+}
